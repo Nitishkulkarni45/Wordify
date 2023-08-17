@@ -1,0 +1,21 @@
+.butt{
+    background:linear-gradient(to right,#f12711,#f5af19);
+    box-shadow: -4px 2px 8px -2px rgba(37, 43, 72, 1);
+    border: none;
+    outline: none;
+    margin-left: 15px;
+    border-radius: 20px;
+    padding: 5px 20px;
+}
+
+.cont{
+    width: 1536px;
+    height: 100vh;
+    /* margin: none !important; */
+}
+
+.acc{
+    position: relative !important;
+    padding: 100px 0px 10px 0px;
+}
+
